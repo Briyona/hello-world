@@ -1,5 +1,5 @@
 # hello-world
-Just a practice repository. 
+
 I'm Bri, a twenty-something trying to figure out life. 
 I kind of stumbled into computer programming, and web development. 
 It's fun but quite mind boggling to understand at times. 
